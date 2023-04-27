@@ -123,7 +123,7 @@ path('',views.rectarea,name="areaofrectangleroot")]
 
 
 ## OUTPUT:
-![OUTPUT](./ex-5-2.png)
+![OUTPUT](./ex5-2.png)
 
 ### Home Page:
 ![HOME](./ex5-1.png)
